@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/ravi-vaghela-a25828aa/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ravi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/iam_ravi95/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ravi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ravi00789" alt="ravi00789" />
@@ -12,7 +12,7 @@
 
 Hi, I'm Ravi Vaghela, a Full Stack Developer 🚀 from India, currently, I'm a Softvan Engineer at Softvan 🙍🏽‍♂️ [@Softvan](https://softvan.in). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ravi00789/ravi00789/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -22,8 +22,8 @@ Hi, I'm Ravi Vaghela, a Full Stack Developer 🚀 from India, currently, I'm a S
 - 📫 How to reach me: [@ravi_vaghela](mailto:iamraviad@gmail.com);
 
 **Languages and Tools:**  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://github.com/ravi00789/ravi00789/blob/master/tech-icons/amazonwebservices-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+<img src="https://github.com/ravi00789/ravi00789/blob/master/tech-icons/angularjs-original.svg?raw=true" alt="aws" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
